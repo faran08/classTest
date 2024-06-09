@@ -1,0 +1,3 @@
+class hellow{
+    int i;
+}
