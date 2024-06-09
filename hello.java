@@ -5,3 +5,8 @@ class hellow{
 class Person{
     String name;
 }
+
+class Vehicle 
+{
+    int id;
+}
